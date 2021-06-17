@@ -304,3 +304,6 @@ __pycache__/
 *_data.xlsx
 /WebAPI Services/GO.Manager.CampaignPlanner.Service/migration_data_integration_test.xlsx
 /Testing.GO.Unit/coverage.cobertura.xml
+bin
+obj
+.vs/*
