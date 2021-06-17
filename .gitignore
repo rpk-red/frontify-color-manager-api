@@ -307,3 +307,6 @@ __pycache__/
 bin
 obj
 .vs/*
+/.vs
+/ColorManager.Api/obj
+/ColorManager.Api/bin
