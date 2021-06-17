@@ -1,0 +1,1 @@
+# frontify-color-manager-api
